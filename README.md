@@ -29,6 +29,12 @@ The collected data from the year 2000 to 2022 from 8 districts of Bangladesh is 
 * Language: Python
 * IDE: Colab
 
+### Team Member
+* 190204040
+* 190204048
+* 190204037
+* 190204053 
+
 ### Supervisors: 
 * Mr. Mohammad Marufur Rahman (Lecturer, AUST)
 * Mr. Md. Reasad Zaman Chowdhury (Lecturer, AUST).
